@@ -1,0 +1,21 @@
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.AssemblyInfo.cs
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.dll
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\refint\CuentaPalabras.dll
+G:\Otros ordenadores\Mi portátil\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.pdb
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\bin\Debug\net8.0\CuentaPalabras.exe
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\bin\Debug\net8.0\CuentaPalabras.deps.json
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\bin\Debug\net8.0\CuentaPalabras.runtimeconfig.json
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\bin\Debug\net8.0\CuentaPalabras.dll
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\bin\Debug\net8.0\CuentaPalabras.pdb
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.dll
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\refint\CuentaPalabras.dll
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.pdb
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\CuentaPalabras.genruntimeconfig.cache
+C:\NetAcademy\c#\ViridianaMalpica\CuentaPalabras\obj\Debug\net8.0\ref\CuentaPalabras.dll
