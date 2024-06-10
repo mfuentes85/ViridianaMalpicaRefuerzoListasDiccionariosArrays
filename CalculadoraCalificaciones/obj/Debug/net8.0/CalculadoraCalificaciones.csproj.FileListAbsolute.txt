@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\bin\Debug\net8.0\CalculadoraCalificaciones.exe
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\bin\Debug\net8.0\CalculadoraCalificaciones.deps.json
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\bin\Debug\net8.0\CalculadoraCalificaciones.runtimeconfig.json
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\bin\Debug\net8.0\CalculadoraCalificaciones.dll
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\bin\Debug\net8.0\CalculadoraCalificaciones.pdb
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.sourcelink.json
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.dll
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\refint\CalculadoraCalificaciones.dll
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.pdb
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\CalculadoraCalificaciones.genruntimeconfig.cache
+C:\NetAcademy\c#\ViridianaMalpica\CalculadoraCalificaciones\obj\Debug\net8.0\ref\CalculadoraCalificaciones.dll
