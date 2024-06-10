@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuentaPalabras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53c0f71bdc01d0adb528f96763e6dd2bdabbfa7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuentaPalabras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuentaPalabras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
