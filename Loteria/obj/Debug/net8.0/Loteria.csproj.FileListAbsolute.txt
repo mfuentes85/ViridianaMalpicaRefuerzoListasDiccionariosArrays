@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\bin\Debug\net8.0\Loteria.exe
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\bin\Debug\net8.0\Loteria.deps.json
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\bin\Debug\net8.0\Loteria.runtimeconfig.json
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\bin\Debug\net8.0\Loteria.dll
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\bin\Debug\net8.0\Loteria.pdb
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.sourcelink.json
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.dll
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\refint\Loteria.dll
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.pdb
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\Loteria.genruntimeconfig.cache
+C:\NetAcademy\c#\ViridianaMalpica\Loteria\obj\Debug\net8.0\ref\Loteria.dll
